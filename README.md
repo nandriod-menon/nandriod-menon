@@ -1,40 +1,75 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hello, I'm Nandan Menon
 
-Welcome to my GitHub profile! I'm a passionate [your profession, e.g., Software Developer / Data Scientist / DevOps Engineer] with a love for building impactful and scalable solutions.
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on: **[Project name or area, e.g., AI applications, web development, open-source tools]**
-- 🌱 I’m currently learning: **[Skill/tech you're learning, e.g., Rust, Kubernetes, or Machine Learning]**
-- 💬 Ask me about: **[Your areas of expertise]**
-- 👯 I’m looking to collaborate on: **[Interesting project types or tech]**
-- 📫 How to reach me: **[Your email or preferred contact link]**
-- 🧠 Fun fact: **[A quirky or interesting fact about you]**
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Add or remove based on your stack -->
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-<!-- Optional: GitHub trophies or streaks -->
-<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula) -->
+🎓 Computer Science undergraduate at Shiv Nadar University, Delhi  
+🚀 Aspiring AI/ML Engineer | Problem Solver | Builder of Intelligent Systems
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+## 🌟 About Me
+
+I'm a passionate learner and aspiring **AI/ML Engineer**, currently in my 2nd year of Computer Science. I thrive on building intelligent systems and enhancing my knowledge through real-world projects in machine learning, computer vision, and systems development.
+
+- 🔭 I’m currently working on:
+  - A transformer-based visual segmentation model
+  - Enhancing CPU scheduling algorithms in the xv6 operating system
+- 🌱 Actively learning:
+  - Machine learning, deep learning, and AI concepts
+  - Python, PyTorch, TensorFlow, and model optimization
+- 🎯 Goal: To contribute to real-world AI solutions and be a leader in ML innovation
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, AJAX, JSON  
+**Frameworks & Libraries**: PyTorch, TensorFlow, NumPy, Scikit-learn  
+**Databases**: SQL, PostgreSQL, Django  
+**Core Concepts**: Data Structures & Algorithms, Object-Oriented Programming  
+
+---
+
+## 💼 Projects
+
+### 🔍 Transformer-Based Visual Segmentation
+Building a model using transformers with IoU, PQ, and AP metrics. Integrated with CLI and real-time API (Flask, FastAPI).
+
+### 🧠 xv6 Scheduling Enhancement
+Implemented Multi-Level Feedback Queue scheduling with dynamic priority and aging to improve CPU fairness.
+
+### 📚 Library Management System
+Web application with real-time search and user-friendly interface using HTML, CSS, AJAX, and PostgreSQL.
+
+---
+
+## 📜 Certifications
+
+- 🧠 [Neural Networks and Deep Learning](#) – DeepLearning.AI / Stanford
+- 📈 [Supervised ML: Regression & Classification](#) – DeepLearning.AI / Stanford
+- 🌳 [Advanced Learning Algorithms](#) – DeepLearning.AI / Stanford
+- 🔍 [Unsupervised Learning, Recommenders & RL](#) – DeepLearning.AI / Stanford
+
+---
+
+## 🎶 Beyond Code
+
+- 🎹 Grade 7 Pianist from Trinity College London  
+- 🎤 Lead and organize music events, representing university at national competitions  
+- 🧩 Strong problem-solving, communication, and teamwork skills
+
+---
+
+## 📊 GitHub Stats
+
+![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanmenon2005&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandanmenon2005&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-menon)  
+📫 Email: nandanmenon2005@gmail.com
+
+---
+
+⭐️ Thanks for visiting my profile!
